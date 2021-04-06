@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Exercise 1</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="memail">Masukkan Email</string>
+    <string name="mpass">Masukkan Password</string>
+    <string name="dftrnama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="mnama">Masukkan Nama</string>
+    <string name="malamat">Masukkan Alamat</string>
+    <string name="gnder">Jenis Kelamin</string>
+    <string name="lk">Laki-laki</string>
+    <string name="pr">Perempuan</string>
+    <string name="agm">Agama</string>
+    <string name="islam">Islam</string>
+    <string name="hindu">Hindu</string>
+    <string name="penganut">Penganut Kepercayaan</string>
+    <string name="katolik">Katolik</string>
+    <string name="budha">Budha</string>
+    <string name="kristen">Kristen</string>
+    <string name="konghuchu">Konghuchu</string>
+    <string name="demail">Masukkan Email</string>
+    <string name="dpass">Masukkan Password</string>
+    <string name="repass">Masukkan Kembali Password</string>
+    <string name="btnlgn">LOGIN</string>
+    <string name="btnbatal">BATAL</string>
+    <string name="btndaftar">DAFTAR</string>
+    <string name="tnydftr">Belum Terdaftar?</string>
+    <string name="tdata">Data</string>
+    <string name="dftr">Pendaftaran</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="editData">Lihat Nomor </string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor Telepon</string>
+    <string name="labelfragment1"></string>
+    <string name="second_fragment_label"></string>
+
+</resources>
